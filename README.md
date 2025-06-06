@@ -63,3 +63,10 @@
         </section>
 
     </main>
+
+<footer>
+        <a href="https://www.linkedin.com/in/femascheti" class="cta-footer">Faça parte dessa causa!</a>
+        <p>2025 | @agrinhovitoria</p>
+    </footer>
+</body>
+</html>
